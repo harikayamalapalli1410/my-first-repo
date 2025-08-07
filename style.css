@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  transition: background-color 0.5s ease;
+  padding: 50px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#playlist {
+  margin-top: 30px;
+  font-size: 1.2rem;
+}
+
+.happy { background-color: #ffe066; }
+.sad { background-color: #a29bfe; }
+.energetic { background-color: #fab1a0; }
+.chill { background-color: #55efc4; }
